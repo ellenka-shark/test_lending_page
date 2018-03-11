@@ -10,11 +10,18 @@
 Framework Bootstrap 3.3.7 <http://getbootstrap.com/docs/3.3/>
 
 ### Применены следующие его компоненты:
-
+	
+	* clearfix
 	* pull-left
+	* navbar-toggle
+	* button
+	* collapse 
+	* navbar-collapse
+	* fade
 	* pull-right
 	* text-center
-	* clearfix
+	* img
+	* img-responsive
 	* container
 	* row
 	* col-lg-
@@ -22,11 +29,24 @@ Framework Bootstrap 3.3.7 <http://getbootstrap.com/docs/3.3/>
 	* col-sm-
 	* col-xs-
 	* progress-bar
-	* button
+	* nav
 	* nav-tabs
+	* li.active
+	* tab-content
+	* tab-pane
+	* fade in
+	* active
 	* btn
-	* carousel slide
-	* navbar-toggle
+	* carousel 
+	* slide
+	* carousel-indicators
+	* carousel-inner
+	* form-control
+	* col-lg-offset-
+	* col-md-offset
+	* form-control
+	* input
+	* textarea
 
 ### Используются следующие шрифты:
 
@@ -35,14 +55,14 @@ Framework Bootstrap 3.3.7 <http://getbootstrap.com/docs/3.3/>
 * open_sanslight
 * dosislight
 
-### Шрифты подключы через google-fonts по ссылке
+### Шрифты подключены через google-fonts по ссылке
 
 <https://fonts.googleapis.com/css?family=Dosis:300,400|Open+Sans:300,400">
 
 
-### Иконки из кастомного шрифта подключены локально  с помощью файла et-line.css
+### Иконки из кастомного шрифта подключены локально с помощью файла et-line.css
 
-### Иконки из fontawesome.com подключались по ccылке 
+### Иконки из fontawesome.com подключены по ccылке 
 
 <https://use.fontawesome.com/releases/v5.0.6/css/all.css>
 
@@ -96,17 +116,16 @@ fa-sort-up <https://fontawesome.com/icons/sort-up?style=solid>
 
 #### классы bootstrap:
 
-* pull-left
-* pull-right
-* text-center
-* clearfix
-* container
-* row
-* col-lg-
-* col-md-
-* col-sm- 
-* col-xs-
-* btn
+* *
+* body
+* h1, h2, h3, h4, h5, h6,
+* p
+* blockquote
+* section
+* footer 
+* ul
+* ol
+* a
 
 ### Используются следующие медиа запросы:
 
