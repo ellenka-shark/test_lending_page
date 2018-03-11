@@ -10,30 +10,48 @@
 Framework Bootstrap 3.3.7 <http://getbootstrap.com/docs/3.3/>
 
 Применены следующие его компоненты:
+
 	pull-left
+
 	pull-right
+
 	text-center
+
 	clearfix
+
 	container
+
 	row
+
 	col-lg-
+
 	col-md-
+
 	col-sm- 
+
 	col-xs-
+
 	progress-bar
+
 	button
+
 	nav-tabs
+
 	btn
+
 	carousel slide
+
 	navbar-toggle
 
 Используются следующие шрифты:
 
-dosisregular
-open_sansregular
-open_sanslight
-dosislight
+* dosisregular
+* open_sansregular
+* open_sanslight
+* dosislight
+
 Шрифты подключы через google-fonts по ссылке
+
 <https://fonts.googleapis.com/css?family=Dosis:300,400|Open+Sans:300,400">
 
 
@@ -70,25 +88,43 @@ fa-pinterest <https://fontawesome.com/icons/pinterest?style=brands>
 fa-sort-up <https://fontawesome.com/icons/sort-up?style=solid>
 
 Стандартные классы, использованные в проекте:
+
  кастомные:
 
 .title
+
 .section-small
+
 .section-light
+
 .section-grey
+
 .section-dark
+
 blockquote .author
+
 .text 
+
 .btn-default
+
 .btn-light
+
 .btn-dark
+
 .marker
+
 .marker-dark
+
 .marker-light
+
 .marker-black
+
 .marker i
+
 .marker .fa-phone
+
 .marker-black i
+
 
 классы bootstrap:
 
